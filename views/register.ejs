@@ -1,3 +1,14 @@
 <h1>Register</h1>
 
-<form action="/register" method="POST"></form>
+<form action="/register" method="POST">
+  <div>
+    <label for="email">Email-id</label>
+    <input name="email" type="email" id="email" required autofocus />
+    <label for="name">name</label>
+    <input name="name" type="text" id="name" required />
+    <label for="password">Password</label>
+    <input name="password" type="password" id="password" required />
+
+    <button type="submit">Register</button>
+  </div>
+</form>
