@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-passport-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aashu/nodejs-passport-login.git",
+  "author": "Ashutosh Malviya <ashutoshmalviya1000@gmail.com>",
+  "license": "MIT"
+}
